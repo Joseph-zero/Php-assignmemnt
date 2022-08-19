@@ -29,7 +29,7 @@
             <img src="./img/pexels1.jpg" alt="responsive webite" class="img-fluid" style="padding: 10px;">
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6" style="border:1px solid #ddd; padding: 10px;">
-                <h2>What to know about our society</h2>
+                <h2>What to know about our society aaa</h2>
                 <p>First of all, welcome. Said the name proposed, our society club is all about dancing. Let's talk about the society environment. The society is full of fun activites which you will not be bore, as well as cool and funny people.<br>
                 You, newcomers may think that dancing was just about some fancy moves along with moving your body more vigorously and a few expressions here and there, but no. When you learn from an experienced professional they not only tell you how to move your body but also how to enjoy dance as an art and dance to the rhythm. This is the vibe that our club give out.                  
                 </p>

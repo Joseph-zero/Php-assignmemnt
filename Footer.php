@@ -49,7 +49,6 @@
             <a href="FAQ.php" class="text-reset">FAQ</a>
           </p>
           <p>
-            <a href="contactUs.php" class="text-reset">Contact Us</a>
           </p>
         
         </div>
