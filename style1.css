@@ -1,0 +1,53 @@
+.pagehead {
+    background-image: url('hardwood_floor.jpg');
+    height: auto;
+}
+
+.signupButton button {
+    float: right;
+    margin-top:5px;
+    margin-right:5px;
+    background-color: #9900cc;
+    border: none;
+}
+
+.logo_Name {
+    padding: 30px;
+    display:flex;
+    align-items: center;
+    max-width:100%;
+    height: auto;
+}
+
+.logo_Name img{
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+.logo_Name h1 {
+    font-size: 50px;
+    width: auto;
+    padding-left: 30px;
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+
+
+/*footer styling*/
+.text-reset {
+    text-decoration: none;
+}
+
+.mb-4 a {
+    border: none;
+}
+
+/*about.php*/
+.aboutUs_title {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 30px auto;
+    font-size: 50px;
+    color: #bf00ff;
+    font-weight: bolder;
+}
